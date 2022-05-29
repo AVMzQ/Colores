@@ -1,0 +1,45 @@
+c:\users\1h-pc01\documents\visual studio 2013\Projects\Practica_6\Practica_6\bin\Debug\Practica_6.exe.config
+c:\users\1h-pc01\documents\visual studio 2013\Projects\Practica_6\Practica_6\bin\Debug\Practica_6.exe
+c:\users\1h-pc01\documents\visual studio 2013\Projects\Practica_6\Practica_6\bin\Debug\Practica_6.pdb
+c:\users\1h-pc01\documents\visual studio 2013\Projects\Practica_6\Practica_6\obj\Debug\Practica_6.csprojResolveAssemblyReference.cache
+c:\users\1h-pc01\documents\visual studio 2013\Projects\Practica_6\Practica_6\obj\Debug\Practica_6.Form1.resources
+c:\users\1h-pc01\documents\visual studio 2013\Projects\Practica_6\Practica_6\obj\Debug\Practica_6.Properties.Resources.resources
+c:\users\1h-pc01\documents\visual studio 2013\Projects\Practica_6\Practica_6\obj\Debug\Practica_6.csproj.GenerateResource.Cache
+c:\users\1h-pc01\documents\visual studio 2013\Projects\Practica_6\Practica_6\obj\Debug\Practica_6.exe
+c:\users\1h-pc01\documents\visual studio 2013\Projects\Practica_6\Practica_6\obj\Debug\Practica_6.pdb
+E:\topicos\Practica_6\Practica_6\bin\Debug\Practica_6.exe.config
+E:\topicos\Practica_6\Practica_6\obj\Debug\Practica_6.exe
+E:\topicos\Practica_6\Practica_6\obj\Debug\Practica_6.pdb
+E:\topicos\Practica_6\Practica_6\bin\Debug\Practica_6.exe
+E:\topicos\Practica_6\Practica_6\bin\Debug\Practica_6.pdb
+E:\topicos\Practica_6\Practica_6\obj\Debug\Practica_6.csprojResolveAssemblyReference.cache
+E:\topicos\Practica_6\Practica_6\obj\Debug\Practica_6.Form1.resources
+E:\topicos\Practica_6\Practica_6\obj\Debug\Practica_6.Properties.Resources.resources
+E:\topicos\Practica_6\Practica_6\obj\Debug\Practica_6.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\PracticasWinForm\Practica_6\Practica_6\bin\Debug\Practica_6.exe.config
+C:\Users\danie\Desktop\PracticasWinForm\Practica_6\Practica_6\obj\Debug\Practica_6.exe
+C:\Users\danie\Desktop\PracticasWinForm\Practica_6\Practica_6\obj\Debug\Practica_6.pdb
+C:\Users\danie\Desktop\PracticasWinForm\Practica_6\Practica_6\bin\Debug\Practica_6.exe
+C:\Users\danie\Desktop\PracticasWinForm\Practica_6\Practica_6\bin\Debug\Practica_6.pdb
+C:\Users\danie\Desktop\PracticasWinForm\Practica_6\Practica_6\obj\Debug\Practica_6.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\PracticasWinForm\Practica_6\Practica_6\obj\Debug\Practica_6.Form1.resources
+C:\Users\danie\Desktop\PracticasWinForm\Practica_6\Practica_6\obj\Debug\Practica_6.Properties.Resources.resources
+C:\Users\danie\Desktop\PracticasWinForm\Practica_6\Practica_6\obj\Debug\Practica_6.csproj.GenerateResource.Cache
+C:\Users\danie\Desktop\Practica_6\Practica_6\bin\Debug\Practica_6.exe.config
+C:\Users\danie\Desktop\Practica_6\Practica_6\obj\Debug\Practica_6.exe
+C:\Users\danie\Desktop\Practica_6\Practica_6\obj\Debug\Practica_6.pdb
+C:\Users\danie\Desktop\Practica_6\Practica_6\bin\Debug\Practica_6.exe
+C:\Users\danie\Desktop\Practica_6\Practica_6\bin\Debug\Practica_6.pdb
+C:\Users\danie\Desktop\Practica_6\Practica_6\obj\Debug\Practica_6.csprojResolveAssemblyReference.cache
+C:\Users\danie\Desktop\Practica_6\Practica_6\obj\Debug\Practica_6.Form1.resources
+C:\Users\danie\Desktop\Practica_6\Practica_6\obj\Debug\Practica_6.Properties.Resources.resources
+C:\Users\danie\Desktop\Practica_6\Practica_6\obj\Debug\Practica_6.csproj.GenerateResource.Cache
+C:\Users\USER\Downloads\Practica_6\Practica_6\bin\Debug\Practica_6.exe.config
+C:\Users\USER\Downloads\Practica_6\Practica_6\obj\Debug\Practica_6.exe
+C:\Users\USER\Downloads\Practica_6\Practica_6\obj\Debug\Practica_6.pdb
+C:\Users\USER\Downloads\Practica_6\Practica_6\bin\Debug\Practica_6.exe
+C:\Users\USER\Downloads\Practica_6\Practica_6\bin\Debug\Practica_6.pdb
+C:\Users\USER\Downloads\Practica_6\Practica_6\obj\Debug\Practica_6.csprojResolveAssemblyReference.cache
+C:\Users\USER\Downloads\Practica_6\Practica_6\obj\Debug\Practica_6.Form1.resources
+C:\Users\USER\Downloads\Practica_6\Practica_6\obj\Debug\Practica_6.Properties.Resources.resources
+C:\Users\USER\Downloads\Practica_6\Practica_6\obj\Debug\Practica_6.csproj.GenerateResource.Cache
